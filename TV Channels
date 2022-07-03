@@ -1,0 +1,544 @@
+#EXTM3U
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telenica-canal-8.png" tvg-name="TN8 | HD"  group-title="NATIONAL TV",TN8 | HD
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w619636970.m3u8
+ 
+#EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41NS1I5HffL.png" tvg-name="Comedy Central | HD"  group-title="SOAP OPERAS & COMEDY",Comedy Central | HD
+https://edge1-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.seekpng.com/png/detail/177-1773653_tnt-tbs.png" tvg-name="TBS | HD"  group-title="SOAP OPERAS & COMEDY",TBS | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
+ 
+#EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/co_sony_m.png" tvg-name="SONY Novelas | HD"  group-title="SOAP OPERAS & COMEDY",SONY Novelas | HD
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.seekpng.com/png/detail/283-2837431_sony-tv-logo-png-for-kids-sony-entertainment.png" tvg-name="SONY Comedia | HD"  group-title="SOAP OPERAS & COMEDY",SONY Comedia | HD
+https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.dargrupos.com.ar/images/notas/pasiones_0.jpg" tvg-name="Pasiones | HD"  group-title="SOAP OPERAS & COMEDY",Pasiones | HD
+https://edge-vod01-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" tvg-name="Canal de las Estrellas | HD"  group-title="SOAP OPERAS & COMEDY",Canal de la Estrellas | HD
+https://edge1-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+ 
+#EXTINF:0, tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" tvg-name="Univision USA"  group-title="SOAP OPERAS & COMEDY",Univision USA
+https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" tvg-name="Telemundo Internacional | HD"  group-title="SOAP OPERAS & COMEDY",Telemundo Internacional | HD
+https://edge1-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" tvg-name="Telemundo USA | HD"  group-title="SOAP OPERAS & COMEDY",Telemundo USA | HD
+https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://w7.pngwing.com/pngs/387/31/png-transparent-telemundo-hd-logo.png" tvg-name="Telemundo Novelas | HD"  group-title="SOAP OPERAS & COMEDY",Telemundo Novelas | HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" tvg-name="UNIMAS USA | HD" group-title="SOAP OPERAS & COMEDY", UNIMAS USA | HD
+https://v-ny.theus6tv.tk/hls/68.1/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://s03.s3c.es/imag/_v0/767x419/6/6/9/600x400_azteca-1.png" tvg-name="AZTECA ONE - MEX | SD" group-title="SOAP OPERAS & COMEDY", AZTECA ONE - MEX | SD
+https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.novelisima.com/assets/images/logo.png" tvg-name="Novelisima - MEX | SD" group-title="SOAP OPERAS & COMEDY", Novelisima - MEX | SD
+https://v-ny.theus6tv.tk/hls/42.8/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://gogeticon.net/files/2957515/aeaf43bcb0427aaa1b16004f1bfb9693.png" tvg-name="Cartoon Network | HD"  group-title="CHILDREN",Cartoon Network | HD
+https://edge1-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+ 
+#EXTINF:0, tvg-logo="https://img2.freepng.es/20180627/ust/kisspng-discovery-kids-logo-discovery-inc-television-cha-discovery-5b33c6ed2920e2.2393143015301199171685.jpg" tvg-name="Discovery Kids | HD"  group-title="CHILDREN",Discovery Kids | HD
+https://edge1-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" tvg-name="Boomerang | HD"  group-title="CHILDREN",Boomerang | HD
+https://edge1-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
+ 
+#EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL.png" tvg-name="Nick JR | HD"  group-title="CHILDREN",Nick JR | HD
+https://edge1-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" tvg-name="Disney Channel | HD"  group-title="CHILDREN",Disney Channel | HD
+https://edge1-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" tvg-name="Disney JR | HD"  group-title="CHILDREN",Disney JR | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
+ 
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/666350611521105920/VbHiU4b2_400x400.jpg" tvg-name="Nickelodeon | HD"  group-title="CHILDREN",Nickelodeon | HD
+https://edge1-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+ 
+#EXTINF:0, tvg-logo="https://64.media.tumblr.com/avatar_1944e2834fa4_512.png" tvg-name="Tooncast | SD"  group-title="CHILDREN",Tooncast | SD
+https://edge1-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+ 
+#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXegCecFW1NOP4JCZUxCx0Kl_0e5lejY_5IxWLQhQcCsOcnxUW0-KAViKP1KaZKU6zpk8&usqp=CAU" tvg-name="Latino Kids | HD"  group-title="CHILDREN",Latino Kids | HD
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBSt-_DM0kXfmTMeHBqkYmBerncPWtp7UqPFD1=s900-c-k-c0x00ffffff-no-rj" tvg-name="SAMSUNG WILD LIFE - USA | HD"  group-title="CULTURAL",SAMSUNG WILD LIFE - USA | HD
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://w7.pngwing.com/pngs/555/418/png-transparent-sardines-as-food-marinara-sauce-wild-planet-inc-olive-oil-olive-oil-food-seafood-logo.png" tvg-name="WILD PLANET - USA | HD"  group-title="CULTURAL",WILD PLANET - USA | HD
+https://d3c7duantorcb1.cloudfront.net/amgwildplanetuk/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://ideakreativa.net/wp-content/uploads/2019/04/discover-nuevo-logo.jpg" tvg-name="Discovery Channel | HD"  group-title="CULTURAL",Discovery Channel | HD
+https://edge1-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://juliemontagu.com/wp-content/uploads/2020/05/smithsonian-channel-logo.png" tvg-name="SMITHSONIAN CHANNEL - USA | HD"  group-title="CULTURAL",SMITHSONIAN CHANNEL - USA | HD
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.diligent.es/wp-content/uploads/2016/03/branding-history-channel.jpg" tvg-name="History Channel | HD"  group-title="CULTURAL",History Channel | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" tvg-name="H2 Channel | HD"  group-title="CULTURAL",H2 Channel | HD
+https://edge1-hr.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.kindpng.com/picc/m/107-1076403_animal-planet-png-animal-planet-logo-2019-transparent.png" tvg-name="Animal Planet | HD"  group-title="CULTURAL",Animal Planet | HD
+https://edge1-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
+ 
+#EXTINF:0, tvg-logo="https://seeklogo.com/images/D/discovery-world-logo-C44DE91333-seeklogo.com.png" tvg-name="World Discovery | HD"  group-title="CULTURAL",World Discovery | HD
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo-2005.jpg" tvg-name="NAT GEO | HD"  group-title="CULTURAL",NAT GEO | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" tvg-name="Star Channel | HD"  group-title="MOVIES",Star Channel | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png" tvg-name="A&E | HD"  group-title="MOVIES",A&E | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" tvg-name="Studio Universal | HD"  group-title="MOVIES",Studio Universal | HD
+https://edge-live14-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" tvg-name="TNT LATAM | HD"  group-title="MOVIES",TNT LATAM | HD
+https://edge1-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" tvg-name="TCM | HD"  group-title="MOVIES",TCM | HD
+https://edge2-hr.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
+ 
+#EXTINF:0, tvg-logo="https://storage.googleapis.com/codigo_bucket/wp-content/uploads/2017/07/syfy_2017_logo_stacked.png" tvg-name="SyFy | HD"  group-title="MOVIES",SyFy | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" tvg-name="TNT Sereies LATAM | HD"  group-title="MOVIES",TNT Series LATAM | HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" tvg-name="Universal Channel | HD"  group-title="MOVIES",Universal Channel | HD
+https://edge1-ccast-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://toppng.com/uploads/preview/axn-2015-logo-vector-11573973105flzvelscit.jpg" tvg-name="AXN | HD"  group-title="MOVIES",AXN | HD
+https://edge1-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" tvg-name="CineCanal | HD"  group-title="MOVIES",CineCanal | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-name="SONY Channel | HD"  group-title="MOVIES",SONY Channel | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png" tvg-name="Warner Channel | HD"  group-title="MOVIES",Warner Channel | HD
+https://edge1-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" tvg-name="Space | HD"  group-title="MOVIES",Space | HD
+https://edge1-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+ 
+#EXTINF:0, tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg" tvg-name="CineMax | HD"  group-title="MOVIES",CineMax | HD
+https://edge1-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+ 
+#EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" tvg-name="FX | HD"  group-title="MOVIES",FX | HD
+https://edge1-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://tvnotiblog.com/wp-content/uploads/2018/07/isat-especial-amigos-forever.jpg" tvg-name="ISAT | HD"  group-title="MOVIES",ISAT | HD
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/ISAT/SA_SAGEMCOM/ISAT.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.darkmattertv.com/themes/custom/tri/dark_matter_tv/img/header.png" tvg-name="DARK MATTER - USA | HD"  group-title="MOVIES",DARK MATTER - USA | HD
+https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/89afc648-b220-4835-94aa-82abbb79f5da/5.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.nicepng.com/png/detail/117-1174838_redbox-logo-red-box.png" tvg-name="RedBox Movies - USA | HD"  group-title="MOVIES",RedBox Movies - USA | HD
+https://spotlight-rokuus.amagi.tv/playlist1080.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.nicepng.com/png/detail/117-1174838_redbox-logo-red-box.png" tvg-name="RedBox Rush - USA | HD"  group-title="MOVIES",RedBox Rush - USA | HD
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.nicepng.com/png/detail/117-1174838_redbox-logo-red-box.png" tvg-name="RedBox Spotlight - USA | HD"  group-title="MOVIES",RedBox Spotlight - USA | HD
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2021/05/Crackle-logo-e1453917776895.jpg" tvg-name="Crackle - USA | HD"  group-title="MOVIES",Crackle - USA | HD
+http://crackle-xumo.amagi.tv/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://i0.wp.com/butwhythopodcast.com/wp-content/uploads/2020/04/electric-2.jpeg?fit=225%2C225&ssl=1" tvg-name="ElectricNOW USA | HD"  group-title="MOVIES",ElectricNOW USA | HD
+https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/03/Vevo-logo-2013.png" tvg-name="VEVO Latino | HD"  group-title="ENTERTAINMENT",VEVO Latino | HD
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/782b647b2e38471e80cae5e7bdc3f1dc/live_7.m3u8?app_key=7d2db34e-e406-4d03-bdf5-74556e61040d&partner_id=pluto_tv&playout_channel_id=634387d4-169a-45db-a7e3-10e4e02fbd67&site_id=5cba135ce338f9153dc194c0
+ 
+#EXTINF:0, tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/03/Vevo-logo-2013.png" tvg-name="VEVO POP | HD"  group-title="ENTERTAINMENT",VEVO POP | HD
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/6757caebe90a467bae26bbfb7c82e67b/live_9.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/03/Vevo-logo-2013.png" tvg-name="VEVO COUNTRY | HD"  group-title="ENTERTAINMENT",VEVO COUNTRY | HD
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/f66d9d3fb088443baf9abae38ae01fef/live.m3u8
+ 
+#EXTINF:0, tvg-logo="https://animeflv.best/wp-content/pics/canal-miami-tv-en-vivo.png" tvg-name="TOP LATINO | HD"  group-title="ENTERTAINMENT",TOP LATINO | HD
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/5569/brand.gif?itok=BDO7Utjk" tvg-name="EUROPA + | HD"  group-title="ENTERTAINMENT",EUROPA + | HD
+ 
+#EXTINF:0, tvg-logo="https://vh1.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/vh1/vh1-og-share-image.png" tvg-name="VH1 ITA | HD"  group-title="ENTERTAINMENT",VH1 ITA | HD
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+ 
+#EXTINF:0, tvg-logo="https://photos.live-tv-channels.org/tv-logo/uk-spotlight-tv-7846.jpg" tvg-name="SPOTLIGHT USA | HD"  group-title="ENTERTAINMENT",SPOTLIGHT USA | HD
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_HTV_2009.jpg" tvg-name="Htv | HD"  group-title="ENTERTAINMENT",Htv | HD
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
+ 
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1157806738021736448/ODAmOsLN_400x400.jpg" tvg-name="MTV Hits | HD"  group-title="ENTERTAINMENT",MTV Hits | HD
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
+ 
+#EXTINF:0, tvg-logo="https://w7.pngwing.com/pngs/841/865/png-transparent-viacom-media-networks-logo-mtv-television-channel-others-television-text-logo.png" tvg-name="MTV - USA | HD"  group-title="ENTERTAINMENT",MTV - USA | HD
+http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
+ 
+#EXTINF:0, tvg-logo="https://w7.pngwing.com/pngs/841/865/png-transparent-viacom-media-networks-logo-mtv-television-channel-others-television-text-logo.png" tvg-name="MTV - LATAM | HD"  group-title="ENTERTAINMENT",MTV - LATAM | HD
+https://edge1-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/mx_tru-tv_m.png" tvg-name="True TV | HD"  group-title="ENTERTAINMENT",True TV | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
+ 
+#EXTINF:0, tvg-logo="https://destel.mx/wp-content/uploads/2016/04/220.png" tvg-name="Discovery TLC | HD"  group-title="ENTERTAINMENT",Discovery TLC | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
+ 
+#EXTINF:0, tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png" tvg-name="Discovery Turbo | HD"  group-title="ENTERTAINMENT",Discovery Turbo | HD
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+ 
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/504378724196687872/oKwPCOlt_400x400.jpeg" tvg-name="Discovery Home & Health | HD"  group-title="ENTERTAINMENT",Discovery Home & Health | HD
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.pikpng.com/pngl/b/440-4400408_discovery-id-logo-png-investigation-discovery-clipart.png" tvg-name="Discovery ID | HD"  group-title="ENTERTAINMENT",Dicovery ID | HD
+https://edge1-hr.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.himgs.com/imagenes/hola/comunes/hola-2017.gif" tvg-name="HOLA! TV | HD"  group-title="ENTERTAINMENT",HOLA! TV | HD
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+ 
+#EXTINF:0,tvg-logo="https://www.hola.com/tv/assets/videoondemand/icons/720_405_meta_logo.jpg" tvg-name="HOLA! PLAY | HD"  group-title="ENTERTAINMENT",HOLA! PLAY | HD
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.televvd.com/wp-content/uploads/2020/01/Mas-chic.png" tvg-name="MASCHIC | HD"  group-title="ENTERTAINMENT",MASCHIC | HD
+https://edge1-hr.cvattv.com.ar/live/c6eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
+ 
+#EXTINF:0, tvg-logo="https://elgourmet.com/theme/assets/logo.png" tvg-name="EL GOURMET | HD"  group-title="ENTERTAINMENT",EL GOURMET | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/Gourmet/SA_Live_WebVTT_FTA/Gourmet.m3u8
+ 
+#EXTINF:0, tvg-logo="https://img2.freepng.es/20180417/gww/kisspng-television-channel-e-television-producer-entertai-tv-shows-5ad61659e7e7d3.0380401115239798659499.jpg" tvg-name="E! Entertainment | SD"  group-title="ENTERTAINMENT",E! Entertainment | SD
+https://edge1-hr.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
+ 
+#EXTINF:0, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042013/untitled-1_146.png?itok=0hKkt7Rx" tvg-name="GLITZ | SD"  group-title="ENTERTAINMENT",GLITZ | SD
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
+ 
+#EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" tvg-name="Film & Art | HD"  group-title="ENTERTAINMENT",Film & Art | HD
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/Film_Arts/SA_SAGEMCOM/Film_Arts.m3u8
+ 
+#EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" tvg-name="LifeTime | HD"  group-title="ENTERTAINMENT",LifeTime  | HD
+https://edge1-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/768px-CGTN.png" tvg-name="CGTN - SPA | HD"  group-title="ENTERTAINMENT",CGTN - SPA | HD
+http://livees.cgtn.com/1000e/prog_index.m3u8
+ 
+#EXTINF:0, tvg-logo="https://i.ytimg.com/vi/St78roarjD4/maxresdefault.jpg" tvg-name="SPIKE LATAM | HD"  group-title="ENTERTAINMENT",SPIKE LATAM | HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b3cb&deviceDNT=0&deviceModel=0
+ 
+#EXTINF:0, tvg-logo="https://stageandcinema.com/wp-content/uploads/2021/05/magellan-TV.png" tvg-name="Mallegan TV - USA | HD"  group-title="ENTERTAINMENT",Mallegan TV - USA | HD
+https://magellantv-1-us.samsung.wurl.tv/3000.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.coolstreaming.us/img/ch/image11000676080.jpg" tvg-name="Cine Life USA | HD"  group-title="ENTERTAINMENT",Cine Life USA | HD
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+ 
+#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/NuestraVisi%C3%B3n_alternate_color.png/revision/latest?cb=20181015163553" tvg-name="Nuestra Vision - USA | HD"  group-title="ENTERTAINMENT",Nuestra Vision - USA | HD
+https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
+ 
+#EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/410iamHSxVL.png" tvg-name="GO_USA - USA | HD"  group-title="ENTERTAINMENT",GO_USA - USA | HD
+https://brandusa-gousa-1-us.plex.wurl.tv/4300.m3u8
+ 
+#EXTINF:0, tvg-logo="https://seeklogo.com/images/I/ion-television-logo-ED47BA2083-seeklogo.com.png" tvg-name="Ion PLUS - USA | HD"  group-title="ENTERTAINMENT",Ion PLUS - USA | HD
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www-s3-live.kent.edu/s3fs-root/s3fs-public/tvchannel/bbcamerica.png" tvg-name="BBC AMERICA - USA | HD"  group-title="ENTERTAINMENT",BBC AMERICA - USA | HD
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/profile_0/chunklist.m3u8
+ 
+#EXTINF:0, tvg-logo="http://thinksyncmusic.com/wp-content/uploads/2015/11/BBC-PureDrama.jpg" tvg-name="BBC Drama - USA | HD"  group-title="ENTERTAINMENT",BBC Drama - USA | HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+ 
+#EXTINF:0, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042018/untitled-1_85.png?qD_3oyOmOwLQ9gLHLi1JU1pdQtumm3ac&itok=WRs49inr" tvg-name="SUNDANCE TV - USA | HD"  group-title="ENTERTAINMENT",SUNDANCE TV - USA | HD
+https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.seekpng.com/png/detail/242-2427447_usa-today-logo-usa-today-logo-gray.png" tvg-name="USA TODAY | SD"  group-title="NEWS",USA TODAY | SD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.kindpng.com/picc/m/409-4091749_transparent-nbc-news-logo-hd-png-download.png" tvg-name="NBC News | HD"  group-title="NEWS",NBC News | HD
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+ 
+#EXTINF:0, tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/cbs-news-vector-logo.png" tvg-name="CBS News | HD"  group-title="NEWS",CBS News | HD
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+ 
+#EXTINF:0, tvg-logo="https://brandlogos.net/wp-content/uploads/2021/11/sky-news-logo.png" tvg-name="SKY NEWS - UK | SD"  group-title="NEWS",SKY NEWS - UK | SD
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+ 
+#EXTINF:0, tvg-logo="https://hd-report.com/wp-content/uploads/2016/05/FOX-NOW-logo-firetv.png" tvg-name="FOX Now | HD"  group-title="NEWS",FOX Now | HD
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.endetransmision.bo/wp-content/uploads/2021/12/dwlogo.gif" tvg-name="DW - SPA | HD"  group-title="NEWS",DW - SPA | HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/cl_rt-tv-russia-today_m.png" tvg-name="Russia Today (RT - SPA) | HD"  group-title="NEWS",Russia Today (RT - SPA) | HD
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://img2.freepng.es/20180702/pls/kisspng-abc-news-journalist-news-presenter-wjbf-donna-jean-godchaux-5b3ab31bbfa465.976441171530573595785.jpg" tvg-name="ABC News | HD"  group-title="NEWS", ABC News | HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+ 
+#EXTINF:0, tvg-logo="https://seeklogo.com/images/N/newsmax-logo-6FCD4C32F6-seeklogo.com.png" tvg-name="NewsMax | HD"  group-title="NEWS",NewsMax | HD
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+ 
+#EXTINF:0, tvg-logo="https://brandlogos.net/wp-content/uploads/2014/10/cnn-logo-512x512.png" tvg-name="CNN - ENG | HD"  group-title="NEWS",CNN - ENG | HD
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" tvg-name="CNN - SPA | HD"  group-title="NEWS",CNN - SPA | HD
+https://edge1-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
+ 
+#EXTINF:0, tvg-logo="https://i.pinimg.com/736x/91/ec/28/91ec28351f415e8ce114dfde2eb7063f.jpg" tvg-name="TeleSur | HD"  group-title="NEWS",TeleSur | HD
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://techcrunch.com/wp-content/uploads/2019/09/lx.png" tvg-name="NBCLX | HD"  group-title="NEWS",NBCLX | HD
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0, tvg-logo="https://download.logo.wine/logo/CNBC/CNBC-Logo.wine.png" tvg-name="CNBC | SD"  group-title="NEWS",CNBC | SD
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" tvg-name="EURO NEWS - SPA | HD"  group-title="NEWS",EURO NEWS - SPA | HD
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://jolstatic.fr/www/captures/2362/8/94068.png" tvg-name="HBO USA | HD"  group-title="PREMIUM",HBO USA | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://w7.pngwing.com/pngs/24/399/png-transparent-hbo-2-television-channel-hbo-hd-hbo-television-text-logo-thumbnail.png" tvg-name="HBO 2 | HD"  group-title="PREMIUM", HBO 2 | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" tvg-name="HBO PLUS | HD"  group-title="PREMIUM", HBO PLUS | HD
+https://edge1-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" tvg-name="HBO FAMILY | HD"  group-title="PREMIUM", HBO FAMILY | HD
+https://edge1-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+ 
+#EXTINF:0, tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" tvg-name="HBO POP | HD"  group-title="PREMIUM",HBO POP | HD
+https://edge-vod02-hr.cvattv.com.ar//live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+ 
+#EXTINF:0, tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012513/0000_all_l_hboall-HBO-Mundi-Black.png" tvg-name="HBO MUNDI | HD"  group-title="PREMIUM",HBO MUNDI | HD
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.nicepng.com/png/detail/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png" tvg-name="HBO SIGNATURE | HD"  group-title="PREMIUM",HBO SIGNATURE | HD
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
+ 
+#EXTINF:0, tvg-logo="https://i.ibb.co/2FqMpfC/hbo-xtreme.png" tvg-name="HBO Xtreme | HD"  group-title="PREMIUM",HBO Xtreme | HD
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.vhv.rs/dpng/d/528-5288156_img-paramount-channel-logo-hd-png-download.png" tvg-name="Paramount Channel | HD"  group-title="PREMIUM",Paramount Channel | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
+ 
+#EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/gt_cinema_m.png" tvg-name="Cinema+ - COL | HD"  group-title="PREMIUM",Cinema+ - COL | HD
+https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" tvg-name="Euro Channel | HD"  group-title="PREMIUM",Euro Channel | HD
+https://edge1-hr.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
+ 
+#EXTINF:0, tvg-logo="https://atreseries.atresmedia.com/public/img/atreseries/apple-touch-icon-180x180.png" tvg-name="A3SERIES INTERNACIONAL | HD"  group-title="PREMIUM",A3SERIES INTERNACIONAL | HD
+https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
+ 
+#EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" tvg-name="A3CINE INTERNACIONAL | HD"  group-title="PREMIUM",A3CINE INTERNACIONAL | HD
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
+ 
+#EXTINF:0, tvg-logo="https://iconape.com/wp-content/files/px/285466/svg/animax-logo-logo-icon-png-svg.png" tvg-name="ANIMAX | HD"  group-title="PREMIUM",ANIMAX | HD
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" tvg-name="SHOWTIME Selects | HD"  group-title="PREMIUM",SHOWTIME Selects | HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=c104&deviceDNT=0&deviceModel=0
+ 
+#EXTINF:0, tvg-logo="https://www.seekpng.com/png/detail/243-2432148_amc-logo-transparent.png" tvg-name="AMC | HD"  group-title="PREMIUM",AMC | HD
+https://edge1-hr.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.seekpng.com/png/detail/243-2432148_amc-logo-transparent.png" tvg-name="AMC - USA | HD"  group-title="PREMIUM",AMC - USA | HD
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.seekpng.com/png/detail/243-2432148_amc-logo-transparent.png" tvg-name="AMC RUSH - USA | HD"  group-title="PREMIUM",AMC RUSH - USA | HD
+https://amc-rushbyamc-1-us.plex.wurl.tv/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://s3-symbol-logo.tradingview.com/amc-entertainment-holdings--600.png" tvg-name="AMC TWD1 USA | HD"  group-title="PREMIUM",AMC TWD1 USA | HD
+https://amc-twdtv14-1-us.samsung.wurl.tv/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="http://jeffgreenleaf.com/wp-content/uploads/AMC-Logo.jpg" tvg-name="AMC TWD2 USA | HD"  group-title="PREMIUM",AMC TWD2 USA | HD
+https://amc-twdfanexperience-1-us.plex.wurl.tv/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjM0MjczNjJf?inline=1" tvg-name="AMC Present USA | HD"  group-title="PREMIUM",AMC Present USA | HD
+https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.coolstreaming.us/img/ch/image29190562432.jpg" tvg-name="AMG TV - USA | HD"  group-title="PREMIUM",AMG TV - USA | HD
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://images.tntdrama.com/tnt/w_1600/https%3A%2F%2Fi.cdn.tntdrama.com%2Fassets%2Fimages%2F2018%2F08%2FTNT-1600x900.jpg" tvg-name="TNT USA | HD"  group-title="PREMIUM",TNT USA | HD
+ 
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png" tvg-name="NBC USA | HD"  group-title="PREMIUM",NBC USA | HD
+https://streams.x10.mx/k03f/mp.php/https://cdn1-7p.teleuptv.net/807bc362-f682-4ffd-bc70-ed2b9deb8ff5/tracks-v4a1/mono.m3u8
+ 
+#EXTINF:0, tvg-logo="https://iconape.com/wp-content/files/xq/110997/png/usa-network-logo.png" tvg-name="USA NETWORK | HD"  group-title="PREMIUM",USA NETWORK | HD
+http://stream.x10.mx/n4ie/mp.php/https://cdn1-7p.teleuptv.net/8d8e972e-927a-422a-a9b7-537cf05f730c/tracks-v3a1/mono.m3u8
+ 
+#EXTINF:0, tvg-logo="https://media.glassdoor.com/sqll/15754/ifc-companies-squarelogo-1565305507691.png" tvg-name="IFC USA | HD"  group-title="PREMIUM",IFC USA | HD
+https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://archive.org/services/img/EspnUsa" tvg-name="ESPN USA | HD"  group-title="SPORTS",ESPN USA | HD
+ 
+ 
+#EXTINF:0, tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/02/ESPN-logo.jpg" tvg-name="ESPN - ARG | HD"  group-title="SPORTS",ESPN - ARG | HD
+https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.logolynx.com/images/logolynx/07/07113847db4c87c8f2be573566e9e8d4.png" tvg-name="ESPN 2 - ARG | HD"  group-title="SPORTS",ESPN 2 - ARG | HD
+https://edge1-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+ 
+#EXTINF:0, tvg-logo="https://vivos.superliga-argentina.com/wp-content/uploads/espn-3-logo-grande-696x392.jpg" tvg-name="ESPN 3 - ARG | HD"  group-title="SPORTS",ESPN 3 - ARG | HD
+https://edge-mix02-cen.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+ 
+#EXTINF:0, tvg-logo="https://i0.wp.com/www.androidpure.com/wp-content/uploads/2014/05/ESPN-FC-World-Cup-App.png?resize=300%2C300" tvg-name="ESPN 4 - ARG | HD"  group-title="SPORTS",ESPN 4 - ARG | HD
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+ 
+#EXTINF:0, tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ca7eacbfa85ac05b53_espn-extra.jpeg" tvg-name="ESPN EXTRA | SD"  group-title="SPORTS",ESPN EXTRA | SD
+https://edge1-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://us.cdn.eltribuno.com/042022/1651179757165/image%20(7).png" tvg-name="ESPN Premium - ARG | HD"  group-title="SPORTS",ESPN Premium - ARG | HD
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" tvg-name="Directv Sports 1 | HD"  group-title="SPORTS",Directv Sports 1 | HD
+https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd?&ck=eyJhN2UwOWM2ZjQ3YWY1N2U5OTliNzg5ZWI1NGQzMjU1ZCI6IjI2M2Y2ZGIxMmQ2ZjlhYTcyZjJjYzliMGVmMmUyNmIyIn0=
+ 
+#EXTINF:0, tvg-logo="https://toppng.com/uploads/preview/vinik-sport-and-entertainment-management-program-lecture-fox-sports-tv-logo-11568985815yinwmaozli.png" tvg-name="FOX SPORTS - ARG | HD"  group-title="SPORTS",FOX SPORTS - ARG | HD
+https://edge2-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+ 
+#EXTINF:0, tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" tvg-name="Fox Sports 2 - MX | SD"  group-title="SPORTS",Fox Sports 2 - MX | SD
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+ 
+#EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" tvg-name="Fox Sports 3 - MX | SD"  group-title="SPORTS",Fox Sports 3 - MX | SD
+https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+ 
+#EXTINF:0, tvg-logo="http://elvenezolano.com.pa/wp-content/uploads/2020/09/Roastbrief-Claro-Sports-10-Claro-Video-5.png" tvg-name="Claro SPORTS | HD"  group-title="SPORTS",Claro SPORTS | HD
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" tvg-name="DEPORTV | HD"  group-title="SPORTS",DEPORTV | HD
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" tvg-name="TNT SPORTS - ARG | HD"  group-title="SPORTS",TNT SPORTS - ARG | HD
+https://edge1-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" tvg-name="TNT SPORTS - MX | HD"  group-title="SPORTS",TNT SPORTS - MX | HD
+https://latamlive.warnermediacdn.com/hls/live/2042059/arg_tnt_mex/master.m3u8?hdnea=st=1653760292~exp=1653760892~acl=/*~hmac=a71c577c7524666ef42ae974e203fcf499ce80a792fbdc74f5cac739c9003881
+ 
+#EXTINF:0, tvg-logo="https://www.tvmax-9.com/futbol_internacional/Volante-Camilo-Aguirre-Perez-Zeledon_3944219.jpg" tvg-name="TVMAX Deportes - MX | HD"  group-title="SPORTS",TVMAX Deportes - MX | HD
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/963e14317afb436484576a46b28c8fd7/playlist_dvr_ssaiM.m3u8
+ 
+#EXTINF:0, tvg-logo="https://image.winudf.com/v2/image1/Y29tLm11c3Rtb2JpbGUudHljbXVuZGlhbF9pY29uXzE1OTAxMzk5NDhfMDQ5/icon.png?w=&fakeurl=1" tvg-name="TyC - ARG | SD"  group-title="SPORTS",TyC - ARG | SD
+https://edge1-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+ 
+#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest?cb=20201108180658" tvg-name="Bein SPORTS Extra | SD"  group-title="SPORTS",Bein SPORTS Extra | SD
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+ 
+#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdaUN6kEuAvmxgHf2ljYV1AvLRu8O7zo6B5cLhp17JD5Bf4dKjWKbXqW1XHb2lzN2PXVo&usqp=CAU" tvg-name="USA TODAY SPORTS | HD"  group-title="SPORTS",USA TODAY SPORTS | HD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaysports-plex/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTp2xotD_O3U25klqBdcON1UX2ysytysUZBtWZ_=s900-c-k-c0x00ffffff-no-rj" tvg-name="America Sports | HD"  group-title="SPORTS",America Sports | HD
+https://edge1-hr.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports.m3u8
+ 
+#EXTINF:0, tvg-logo="https://image.xumo.com/v1/channels/channel/99991785/300x300.png?type=smartCast_channelTile" tvg-name="Bein SPORTS Extra SPA | SD"  group-title="SPORTS",Bein SPORTS Extra SPA | SD
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+ 
+#EXTINF:0, tvg-logo="https://cdn6.aptoide.com/imgs/f/5/0/f50a99a6e9291c2e8b7e95eacb1cee43_icon.png" tvg-name="Extrema TV | SD"  group-title="RELIGIOUS",Extrema TV | SD
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/05/3ABN-Nicaragua-en-vivo-Online.png" tvg-name="3ABN Nicaragua | HD "  group-title="RELIGIOUS",3ABN Nicaragua | HD
+https://inliveserver.com:1936/17514/17514/chunklist_w194584653.m3u8
+ 
+#EXTINF:0, tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/logos-tv.png" tvg-name="Logos TV | SD"  group-title="RELIGIOUS",Logos TV | SD
+http://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.seekpng.com/png/full/920-9203951_esperanza-tv-hope-channel.png" tvg-name="Esperanza TV - USA (Adventist Channel) | HD"  group-title="RELIGIOUS",Esperanza TV - USA (Adventist Channel) | HD
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/chunklist_b732000.m3u8
+ 
+#EXTINF:0, tvg-logo="https://televisionadventista.org/wp-content/uploads/2013/04/postv-esperanza-tv-costa-rica.jpg" tvg-name="Esperanza TV - CR (Adventist Channel) | HD"  group-title="RELIGIOUS",Esperanza TV - CR (Adventist Channel) | HD
+https://5eac7b031d945.streamlock.net/WEB/WEB_source/chunklist_w370184411.m3u8
+ 
+#EXTINF:0, tvg-logo="https://aws-noticias-es.s3.amazonaws.com/2014/11/logotipont.jpg" tvg-name="Nuevo Tiempo - Adventist Channel (Sudamerica) | HD"  group-title="RELIGIOUS",Nuevo Tiempo - Adventist Channel (Sudamerica) | HD
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.kindpng.com/picc/m/454-4544173_hope-channel-indonesia-hope-channel-hd-png-download.png" tvg-name="Hope Channel - Adventist Channel | SD"  group-title="RELIGIOUS",Hope Channel - Adventist Channel | SD
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/9649814c00e54c6eabc8d12d3cddd26c/chunklist_b1128000.m3u8
+ 
+#EXTINF:0, tvg-logo="https://3abn.org/img/logos/3abn-international-logo.jpg" tvg-name="3ABN International | HD"  group-title="RELIGIOUS",3ABN International | HD
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/SQs/chunklist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://play-lh.googleusercontent.com/g7Ul8xOO2Dqxe9Ycc02FVYxaHQweh_bV0Eov9eIEa7_6Y30P20dWTzYGBXG9eUjAfq8" tvg-name="Spirit TV | HD"  group-title="RELIGIOUS",Spirit TV | HD
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-name="Telefe - ARG | HD"  group-title="INTERNATIONAL",Telefe - ARG | HD
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-trece-colombia-2005-2012-logo.png" tvg-name="El Trece - ARG | HD"  group-title="INTERNATIONAL",El Trece - ARG | HD
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+ 
+#EXTINF:0, tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png" tvg-name="MultiVision - ARG | HD"  group-title="INTERNATIONAL",MultiVision - ARG | HD
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.seekpng.com/png/detail/345-3453836_ar-canal-9-el-nueve-el-nueve-logo.png" tvg-name="El Nueve - ARG | HD"  group-title="INTERNATIONAL",El Nueve - ARG | HD
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+ 
+#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/NETTV2018.png/revision/latest?cb=20210315130135&path-prefix=es" tvg-name="NET TV - ARG | HD"  group-title="INTERNATIONAL",NET TV- ARG | HD
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg" tvg-name="FoxMix TV - CHL | HD"  group-title="INTERNATIONAL",FoxMix TV - CHL | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+ 
+#EXTINF:0,tvg-logo="https://infiny.live/uploads/multimedia/2020/08/m_7336f6e1e721403d2ca087cde3c254ae0.png" tvg-name="INFINITA - CHL | HD"  group-title="INTERNATIONAL",INFINITA - CHL | HD
+https://unlimited1-us.dps.live/infinitatv/infinitatv.smil/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" tvg-name="WOW TV - SAL | HD"  group-title="INTERNATIONAL",WOW TV - SAL | HD
+ 
+ 
+#EXTINF:0, tvg-logo="https://costaricatelevision.com/sites/default/files/2021-03/ticavision-costa-rica_0.png" tvg-name="TicaVision - CR | HD"  group-title="INTERNATIONAL",TicaVision - CR | HD
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/800px-Logo_tvmax.png" tvg-name="TVMAX - PAN | HD"  group-title="INTERNATIONAL",TVMAX - PAN | HD
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/963e14317afb436484576a46b28c8fd7/playlist_dvr_ssaiM.m3u8
+ 
+#EXTINF:0, tvg-logo="https://i.pinimg.com/originals/50/0a/1f/500a1f59894a5cb4759d855105a37665.jpg" tvg-name="TV AGRO - COL | SD"  group-title="INTERNATIONAL",TV AGRO - COL | SD
+http://179.1.7.198:1935/live/TVAgroHD.stream_360p/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" tvg-name="TDI - COL | HD" group-title="INTERNATIONAL",TDI - COL | HD
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/LaTele_Per%C3%BA_2009_Logo.png" tvg-name="LATELE - PAR | SD"  group-title="INTERNATIONAL",LATELE - PAR | SD
+https://edge1-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" tvg-name="RTU - ECU | HD"  group-title="INTERNATIONAL",RTU - ECU | HD
+https://streamingwowza.com:1936/rtutv/rtutv/chunklist_w871953722.m3u8
+ 
+#EXTINF:0, tvg-logo="https://worldconsciouspact.org/wp-content/uploads/2013/10/logo-Inti-network-640.png" tvg-name="INTI Network - ECU | HD"  group-title="INTERNATIONAL",INTI Network - ECU | HD
+http://s846397078.mialojamiento.es/w2jy/inti.php/.m3u8
+ 
+#EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31D59ACeMXL.png" tvg-name="VIVO PLAY - VEN | HD" group-title="INTERNATIONAL",VIVO PLAY - VEN | HD
+https://vp01-vivoplayiptv.delivery.fuugo.com/ngrp:vp01-VIVOplay_IPTV-aa730fa2_all/.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.idg.se/editorial/0/path/1.756687.1635840589!imageUploader/2895020216.jpg" tvg-name="Canal 6 - MEX | SD"  group-title="INTERNATIONAL",Canal 6 - MEX | SD
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://img2.freepng.es/20180525/svk/kisspng-multimedios-televisin-television-channel-monterr-starlight-5b08d039cefe27.7084239315273042498479.jpg" tvg-name="Multimedios - MEX | SD"  group-title="INTERNATIONAL",Multimedios - MEX | SD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+ 
+#EXTINF:0, tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Telemax-Logo-1-7080.jpg" tvg-name="TeleMax - MEX | HD"  group-title="INTERNATIONAL",TeleMax - MEX | HD
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/80609e7626a827d28c6c277ed8252b0e.webp" tvg-name="Central TV - MEX | SD"  group-title="INTERNATIONAL",Central TV - MEX | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://www.spanishbroadcasting.com/wp-content/uploads/sites/5/2016/11/megatv-thumbs.jpg" tvg-name="MEGA TV - PR | SD"  group-title="INTERNATIONAL",MEGA TV - PR | SD
+https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://w7.pngwing.com/pngs/37/212/png-transparent-telemadrid-hd-logo-thumbnail.png" tvg-name="TeleMadrid | HD"  group-title="INTERNATIONAL",TeleMadrid | HD
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+ 
+#EXTINF:0, tvg-logo="https://w7.pngwing.com/pngs/467/42/png-transparent-channel-7-television-channel-thailand-broadcasting-others-miscellaneous-television-logo-thumbnail.png" tvg-name="CANAL 7 - SPA | HD"  group-title="INTERNATIONAL",CANAL 7 - SPA | HD
