@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telenica-canal-8.png" tvg-name="TN8 | HD"  group-title="NATIONAL TV",TN8 | HD
-https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w619636970.m3u8
+
 
 #EXTINF:0, tvg-logo="" tvg-name="VOS TV - NIC | HD"  group-title="NATIONAL TV",VOS TV - NIC | HD
 https://streannlivevostv.cachefly.net/vostv1/vostv1/playlist.m3u8
