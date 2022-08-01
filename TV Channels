@@ -6,7 +6,7 @@
 
  
 #EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41NS1I5HffL.png" tvg-name="Comedy Central | HD"  group-title="SOAP OPERAS & COMEDY",Comedy Central | HD
-https://edge1-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+
  
 #EXTINF:0, tvg-logo="https://www.seekpng.com/png/detail/177-1773653_tnt-tbs.png" tvg-name="TBS | HD"  group-title="SOAP OPERAS & COMEDY",TBS | HD
 https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
