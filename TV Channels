@@ -9,10 +9,10 @@
 
  
 #EXTINF:0, tvg-logo="https://www.seekpng.com/png/detail/177-1773653_tnt-tbs.png" tvg-name="TBS | HD"  group-title="SOAP OPERAS & COMEDY",TBS | HD
-https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
+
  
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/co_sony_m.png" tvg-name="SONY Novelas | HD"  group-title="SOAP OPERAS & COMEDY",SONY Novelas | HD
-https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+
  
 #EXTINF:0, tvg-logo="https://www.seekpng.com/png/detail/283-2837431_sony-tv-logo-png-for-kids-sony-entertainment.png" tvg-name="SONY Comedia | HD"  group-title="SOAP OPERAS & COMEDY",SONY Comedia | HD
 https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
