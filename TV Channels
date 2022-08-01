@@ -3,7 +3,7 @@
 
 
 #EXTINF:0, tvg-logo="" tvg-name="VOS TV - NIC | HD"  group-title="NATIONAL TV",VOS TV - NIC | HD
-https://streannlivevostv.cachefly.net/vostv1/vostv1/playlist.m3u8
+
  
 #EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41NS1I5HffL.png" tvg-name="Comedy Central | HD"  group-title="SOAP OPERAS & COMEDY",Comedy Central | HD
 https://edge1-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
