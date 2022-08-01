@@ -47,11 +47,11 @@ http://138.117.4.70:8075/channeljbn/playlist.m3u8
 #EXTINF:0, tvg-logo=" tvg-name="THE ONE (CANAL 43) - NIC | LQ"  group-title="NATIONAL TV",THE ONE (CANAL 43) - NIC | LQ
 http://138.117.4.70:8075/channeltvone/playlist.m3u8
 
-#EXTINF:0, tvg-logo=" tvg-name="Managua TV - NIC | LQ"  group-title="NATIONAL TV",Managua TV - NIC | LQ
+#EXTINF:0, tvg-logo="https://live.video.aetnd.com/brand_live_streams/aetv/primary/aetv.m3u8?token=aGRudHM9c3Q9MTY1OTMxMzE2Mn5leHA9MTY1OTM3MDc2Mn5hY2w9Lyp+aG1hYz1jOGI4NDA2ZDM5NTdkY2U2MzU2MTMzMDU5MjZiOWEyNDQ2YjU4MDI3MWVkN2IzMGNiYTgzMTQ3MzA0NGY0Mzc1" tvg-name="Managua TV - NIC | LQ"  group-title="NATIONAL TV",Managua TV - NIC | LQ
 https://stream.managua.gob.ni/hls/stream.m3u8
 
 #EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1108879740893622273/naY8KsoE_400x400.jpg" tvg-name="MEGABOX - NIC | LQ"  group-title="NATIONAL TV",MEGABOX - NIC | LQ
-https://srv.panelcast.net/megaboxni/megaboxni/playlist.m3u8
+https://srv.panelcast.net:443/megaboxni/megaboxni/chunklist_w831122043.m3u8
 
 
 
@@ -206,37 +206,43 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Boomerang/SA_HLS/Boomerang.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Nickelodeon_logo_2009.png" tvg-name="Nickelodeon - USA | UHD"  group-title="CHILDREN",Nickelodeon - USA | UHD
-
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick.m3u
 
 #EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/666350611521105920/VbHiU4b2_400x400.jpg" tvg-name="Nickelodeon - LATAM | UHD"  group-title="CHILDREN",Nickelodeon - LATAM | UHD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick.m3u8
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1093.m3u8
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/474x/00/90/82/00908240a72d76e90b1dcbf71ec25618--nick-jr-nickelodeon.jpg" tvg-name="Nick JR - USA | UHD"  group-title="CHILDREN",Nick JR - USA | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/8687.m3u8
 
 #EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL.png" tvg-name="Nick JR - LATAM | UHD"  group-title="CHILDREN",Nick JR - LATAM | UHD
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1092.m3u8
+
+#EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL.png" tvg-name="Nick JR - ARG (SAP Mode) | UHD"  group-title="CHILDREN",Nick JR - ARG (SAP Mode) | UHD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Nick_Jr/SA_HLS/Nick_Jr.m3u8
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/15/ed/81/15ed81b2c96c52b79a833f86e647914e.png" tvg-name="Disney Channel - USA | UHD"  group-title="CHILDREN",Disney Channel - USA | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/521.m3u8
 
 #EXTINF:0, tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" tvg-name="Disney Channel - LATAM | UHD"  group-title="CHILDREN",Disney Channel - LATAM | UHD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
 
-#EXTINF:0, tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" tvg-name="Disney JR - USA | UHD"  group-title="CHILDREN",Disney JR - USA | UHD
+#EXTINF:0, tvg-logo="http://www.carmelocablevision.com.uy/assets/img/logos_canales/disneyjunior.png" tvg-name="Disney JR - USA | UHD"  group-title="CHILDREN",Disney JR - USA | UHD
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/31697.m3u8
 
-
-#EXTINF:0, tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" tvg-name="Disney JR - LATAM | UHD"  group-title="CHILDREN",Disney JR - LATAM | UHD
-https://cvi.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
+#EXTINF:0, tvg-logo="http://www.carmelocablevision.com.uy/assets/img/logos_canales/disneyjunior.png" tvg-name="Disney JR - LATAM | UHD"  group-title="CHILDREN",Disney JR - LATAM | UHD
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1597.m3u8
 
 #EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTToUIbdhFK4iuSqpJbAQSLaqYU_JejCrFR7WaxtoJiH1tN5rrU3XU6oErq3ADbV-ckdE8&usqp=CAU" tvg-name="Disney XD - USA | UHD"  group-title="CHILDREN",Disney XD - USA | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/532.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Disney_XD_HD.svg/1200px-Disney_XD_HD.svg.png" tvg-name="Disney XD - LATAM | UHD"  group-title="CHILDREN",Disney XD - LATAM | UHD
 
 
-#EXTINF:0, tvg-logo="https://64.media.tumblr.com/avatar_1944e2834fa4_512.png" tvg-name="Tooncast - LATAM | SD"  group-title="CHILDREN",Tooncast - LATAM | SD
+#EXTINF:0, tvg-logo="https://64.media.tumblr.com/avatar_1944e2834fa4_512.png" tvg-name="Tooncast - USA | SD"  group-title="CHILDREN",Tooncast - USA | SD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Tooncast/SA_HLS/Tooncast.m3u8
+
+#EXTINF:0, tvg-logo="https://64.media.tumblr.com/avatar_1944e2834fa4_512.png" tvg-name="Tooncast - LATAM | SD"  group-title="CHILDREN",Tooncast - LATAM | SD
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1098.m3u8
 
 #EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXegCecFW1NOP4JCZUxCx0Kl_0e5lejY_5IxWLQhQcCsOcnxUW0-KAViKP1KaZKU6zpk8&usqp=CAU" tvg-name="Latino Kids | HD"  group-title="CHILDREN",Latino Kids | HD
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
@@ -244,7 +250,6 @@ https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:0, tvg-logo="https://iconape.com/wp-content/files/px/285466/svg/animax-logo-logo-icon-png-svg.png" tvg-name="ANIMAX | HD"  group-title="CHILDREN",ANIMAX | HD
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/KidsWB.svg" tvg-name="Warner Kids | UHD"  group-title="CHILDREN",Warner Kids | UHD
 
 
 
@@ -281,40 +286,40 @@ https://bam-lovenature-spa-plex.amagi.tv/playlist.m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://ideakreativa.net/wp-content/uploads/2019/04/discover-nuevo-logo.jpg" tvg-name="Discovery Channel - USA | UHD"  group-title="CULTURAL",Discovery Channel - USA | UHD
-https://cdn1-7p.teleuptv.net/d13e997f-abb3-42c8-8570-5f86c6336215/index.m3u8
+https://cdn1-7p.teleuptv.net:443/d13e997f-abb3-42c8-8570-5f86c6336215/tracks-v4a1/mono.m3u8
 
 #EXTINF:0, tvg-logo="https://ideakreativa.net/wp-content/uploads/2019/04/discover-nuevo-logo.jpg" tvg-name="Discovery Channel - LATAM | UHD"  group-title="CULTURAL",Discovery Channel - LATAM | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/971.m3u8
 
 #EXTINF:0, tvg-logo="https://ideakreativa.net/wp-content/uploads/2019/04/discover-nuevo-logo.jpg" tvg-name="Discovery Channel - SAP (ARG) | HD"  group-title="CULTURAL",Discovery Channel - SAP (ARG) | HD
-https://cvi.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/972.m3u8
 
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/D/discovery-world-logo-C44DE91333-seeklogo.com.png" tvg-name="World Discovery - LATAM | UHD"  group-title="CULTURAL",World Discovery - LATAM | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/983.m3u8
 
 #EXTINF:0, tvg-logo="https://seeklogo.com/images/D/discovery-world-logo-C44DE91333-seeklogo.com.png" tvg-name="World Discovery - SAP (ARG) | HD"  group-title="CULTURAL",World Discovery - SAP (ARG) | HD
 
 
 #EXTINF:0, tvg-logo="https://www.diligent.es/wp-content/uploads/2016/03/branding-history-channel.jpg" tvg-name="History Channel - USA | UHD"  group-title="CULTURAL",History Channel - USA | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/310.m3u8
 
 #EXTINF:0, tvg-logo="https://www.diligent.es/wp-content/uploads/2016/03/branding-history-channel.jpg" tvg-name="History Channel - LATAM | UHD"  group-title="CULTURAL",History Channel - LATAM | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/82621.m3u8
 
 #EXTINF:0, tvg-logo="https://www.diligent.es/wp-content/uploads/2016/03/branding-history-channel.jpg" tvg-name="History Channel - SAP (ARG) | HD"  group-title="CULTURAL",History Channel - SAP (ARG) | HD
-https://cvi.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/7925.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" tvg-name="H2 Channel - CAN | UHD"  group-title="CULTURAL",H2 Channel - CAN | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/58.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" tvg-name="H2 Channel - LATAM | UHD"  group-title="CULTURAL",H2 Channel - LATAM | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/987.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" tvg-name="H2 Channel - SAP (ARG) | HD"  group-title="CULTURAL",H2 Channel - SAP (ARG) | HD
-https://cvi.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://www.kindpng.com/picc/m/107-1076403_animal-planet-png-animal-planet-logo-2019-transparent.png" tvg-name="Animal Planet - USA | UHD"  group-title="CULTURAL",Animal Planet - USA | UHD
-https://cdn1-7p.teleuptv.net/aae1beb9-6779-4863-86cd-b157385faa96/index.m3u8
+https://cdn1-7p.teleuptv.net:443/aae1beb9-6779-4863-86cd-b157385faa96/tracks-v4a1/mono.m3u8
 
 #EXTINF:0, tvg-logo="https://www.kindpng.com/picc/m/107-1076403_animal-planet-png-animal-planet-logo-2019-transparent.png" tvg-name="Animal Planet - LATAM | HD"  group-title="CULTURAL",Animal Planet - LATAM | HD
 
@@ -323,20 +328,19 @@ https://cdn1-7p.teleuptv.net/aae1beb9-6779-4863-86cd-b157385faa96/index.m3u8
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
 
 #EXTINF:0, tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo-2005.jpg" tvg-name="NAT GEO - LATAM | UHD"  group-title="CULTURAL",NAT GEO - LATAM | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/991.m3u8
 
 #EXTINF:0, tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo-2005.jpg" tvg-name="NAT GEO - USA | UHD"  group-title="CULTURAL",NAT GEO - USA | UHD
-https://cdn1-8p.teleuptv.net/feba6738-a2a5-4819-8eb4-b32012b99539/index.m3u8
+https://cdn1-8p.teleuptv.net:443/feba6738-a2a5-4819-8eb4-b32012b99539/tracks-v4a1/mono.m3u8
 
 #EXTINF:0, tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo-2005.jpg" tvg-name="NAT GEO - SAP (ARG) | HD"  group-title="CULTURAL",NAT GEO - SAP (ARG) | HD
 
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/cl_nat-geo-wild_m.png" tvg-name="NAT GEO WILD - USA | UHD"  group-title="CULTURAL",NAT GEO WILD - USA | UHD
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/307.m3u8
 
-
-
-
-
+#EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/cl_nat-geo-wild_m.png" tvg-name="NAT GEO WILD - SPA | UHD"  group-title="CULTURAL",NAT GEO WILD - SPA | UHD
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/993.m3u8
 
 
 
@@ -353,104 +357,104 @@ https://cdn1-8p.teleuptv.net/feba6738-a2a5-4819-8eb4-b32012b99539/index.m3u8
 #EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71LOnifsRIL.png" tvg-name="VIX CINE | UHD"  group-title="MOVIES",VIX CINE | UHD
 https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" tvg-name="Star Channel - ARG | HD"  group-title="MOVIES",Star Channel - ARG | HD
-
+#EXTINF:0, tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" tvg-name="Star Channel - LATAM | HD"  group-title="MOVIES",Star Channel - LATAM | HD
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1207.m3u8
 
 #EXTINF:0, tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" tvg-name="Star Channel - SAP | HD"  group-title="MOVIES",Star Channel - SAP | HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png" tvg-name="A&E - USA | UHD"  group-title="MOVIES",A&E - USA | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/331.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png" tvg-name="A&E - LATAM | UHD"  group-title="MOVIES",A&E - LATAM | UHD
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/997.m3u8
 
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png" tvg-name="A&E - SAP (ARG) | HD"  group-title="MOVIES",A&E - SAP (ARG) | HD
-https://cvi.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png" tvg-name="A&E - ARG | UHD"  group-title="MOVIES",A&E - ARG | UHD
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/996.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" tvg-name="TCM - USA | HD"  group-title="MOVIES",TCM - USA | HD
-https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" tvg-name="TCM | HD"  group-title="MOVIES",TCM | HD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1262.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.entries.clios.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/39/21175/screenshot_2017-08-04_15.41.19_3.png" tvg-name="SyFy  - USA | UHD"  group-title="MOVIES",SyFy - USA | UHD
 https://cdn1-7p.teleuptv.net/1d4c0b1d-36b4-4750-ac60-52f2ecfde725/index.m3u8
 
 #EXTINF:0, tvg-logo="https://storage.googleapis.com/codigo_bucket/wp-content/uploads/2017/07/syfy_2017_logo_stacked.png" tvg-name="SyFy - SAP (ARG) | HD"  group-title="MOVIES",SyFy - SAP (ARG) | HD
-https://cvi.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/17596.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" tvg-name="TNT Sereies LATAM | UHD"  group-title="MOVIES",TNT Series LATAM | UHD
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1032.m3u8
 
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" tvg-name="TNT Series - SAP (ARG) | HD"  group-title="MOVIES",TNT Series - SAP (ARG) | HD
-https://cvi.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" tvg-name="TNT Series - USA | UHD"  group-title="MOVIES",TNT Series - USA | UHD
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1033.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" tvg-name="TNT - USA | UHD"  group-title="MOVIES",TNT - USA | UHD
-https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/34741.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" tvg-name="TNT LATAM | UHD"  group-title="MOVIES",TNT LATAM | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/86769.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" tvg-name="TNT - SAP (ARG) | HD"  group-title="MOVIES",TNT - SAP (ARG) | HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" tvg-name="Studio Universal | UHD"  group-title="MOVIES",Studio Universal | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/2771.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" tvg-name="Studio Universal - SAP (ARG) | HD"  group-title="MOVIES",Studio Universal - SAP (ARG) | HD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" tvg-name="Universal Channel | UHD"  group-title="MOVIES",Universal Channel | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1080.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" tvg-name="Universal Channel - SAP (ARG) | HD"  group-title="MOVIES",Universal Channel - SAP (ARG) | HD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/86424.ts
 
 #EXTINF:0, tvg-logo="https://toppng.com/uploads/preview/axn-2015-logo-vector-11573973105flzvelscit.jpg" tvg-name="AXN | UHD"  group-title="MOVIES",AXN | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1003.ts
 
 #EXTINF:0, tvg-logo="https://toppng.com/uploads/preview/axn-2015-logo-vector-11573973105flzvelscit.jpg" tvg-name="AXN - SAP (ARG) | HD"  group-title="MOVIES",AXN - SAP (ARG) | HD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN.m3u8
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1002.m3u8
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" tvg-name="CineCanal | UHD"  group-title="MOVIES",CineCanal | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1233.m3u8
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" tvg-name="CineCanal - SAP (ARG) | HD"  group-title="MOVIES",CineCanal - SAP (ARG) | HD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1022.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-name="SONY Channel | HD"  group-title="MOVIES",SONY Channel | HD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony.m3u8
+
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-name="SONY MOVIES - USA | HD"  group-title="MOVIES",SONY MOVIES - USA | HD
-https://cdn1-6p.teleuptv.net/ec28b745-2e9b-473b-8655-470affb35e4d/index.m3u8
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/489.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png" tvg-name="Warner Channel | UHD"  group-title="MOVIES",Warner Channel | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1034.ts
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png" tvg-name="Warner Channel - SAP (ARG) | HD"  group-title="MOVIES",Warner Channel - SAP (ARG) | HD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
+
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" tvg-name="Space | UHD"  group-title="MOVIES",Space | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1024.ts
 
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" tvg-name="Space - SAP (ARG) | HD"  group-title="MOVIES",Space - SAP (ARG) | HD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
 
-#EXTINF:0, tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg" tvg-name="CineMax | UHD"  group-title="MOVIES",CineMax | UHD
 
+#EXTINF:0, tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg" tvg-name="CineMax - USA | UHD"  group-title="MOVIES",CineMax - USA | UHD
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/478.m3u8
 
 #EXTINF:0, tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg" tvg-name="CineMax - SAP (ARG) | HD"  group-title="MOVIES",CineMax - SAP (ARG) | HD
-https://cvi.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1216.ts
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" tvg-name="FX - USA | UHD"  group-title="MOVIES",FX - USA | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/29549.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" tvg-name="FX | UHD"  group-title="MOVIES",FX | UHD
-
+http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1012.ts
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" tvg-name="FX - SAP (ARG) | HD"  group-title="MOVIES",FX - SAP (ARG) | HD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX.m3u8
+
 
 #EXTINF:0, tvg-logo="https://tvnotiblog.com/wp-content/uploads/2018/07/isat-especial-amigos-forever.jpg" tvg-name="ISAT | HD"  group-title="MOVIES",ISAT | HD
 
