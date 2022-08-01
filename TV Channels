@@ -15,19 +15,15 @@
 
  
 #EXTINF:0, tvg-logo="https://www.seekpng.com/png/detail/283-2837431_sony-tv-logo-png-for-kids-sony-entertainment.png" tvg-name="SONY Comedia | HD"  group-title="SOAP OPERAS & COMEDY",SONY Comedia | HD
-https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
+
  
 #EXTINF:0, tvg-logo="https://www.dargrupos.com.ar/images/notas/pasiones_0.jpg" tvg-name="Pasiones | HD"  group-title="SOAP OPERAS & COMEDY",Pasiones | HD
-https://edge-vod01-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
- 
+
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" tvg-name="Canal de las Estrellas | HD"  group-title="SOAP OPERAS & COMEDY",Canal de la Estrellas | HD
-https://edge1-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
  
 #EXTINF:0, tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" tvg-name="Univision USA"  group-title="SOAP OPERAS & COMEDY",Univision USA
-https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
- 
+
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" tvg-name="Telemundo Internacional | HD"  group-title="SOAP OPERAS & COMEDY",Telemundo Internacional | HD
-https://edge1-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
  
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" tvg-name="Telemundo USA | HD"  group-title="SOAP OPERAS & COMEDY",Telemundo USA | HD
 https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
