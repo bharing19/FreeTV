@@ -164,7 +164,10 @@ https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
 https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" tvg-name="RCN | UHD"  group-title="SOAP OPERAS & COMEDY",RCN | UHD
-http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/87063.m3u8
+http://vikingotv.club:8080/play/bBHlMkfesjv3hOyY5Wn7jxgEbji6iMA5PN3XEX-V5nQ/ts
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" tvg-name="RCN | UHD"  group-title="SOAP OPERAS & COMEDY",RCN OPC 2 | UHD
+http://vikingotv.club:8080/play/bBHlMkfesjv3hOyY5Wn7j9g8EbRd8jxnr_1cduso-9k/ts
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/1200px-RCN_Nuestra_Tele_logo.svg.png" tvg-name="RCN Internacional | UHD"  group-title="SOAP OPERAS & COMEDY",RCN Internacional | UHD
 http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/82956.m3u8
@@ -235,8 +238,8 @@ http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1597.m3u8
 #EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTToUIbdhFK4iuSqpJbAQSLaqYU_JejCrFR7WaxtoJiH1tN5rrU3XU6oErq3ADbV-ckdE8&usqp=CAU" tvg-name="Disney XD - USA | UHD"  group-title="CHILDREN",Disney XD - USA | UHD
 http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/532.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Disney_XD_HD.svg/1200px-Disney_XD_HD.svg.png" tvg-name="Disney XD - LATAM | UHD"  group-title="CHILDREN",Disney XD - LATAM | UHD
-
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Disney_XD_HD.svg/1200px-Disney_XD_HD.svg.png" tvg-name="Disney XD - LATAM | SD"  group-title="CHILDREN",Disney XD - LATAM | SD
+http://vikingotv.club:8080/play/bBHlMkfesjv3hOyY5Wn7jy0LCWnkEY5Lz8eCYtdIqqn8xZvT8sBlE-z_TqsWzySx/ts
 
 #EXTINF:0, tvg-logo="https://64.media.tumblr.com/avatar_1944e2834fa4_512.png" tvg-name="Tooncast - USA | SD"  group-title="CHILDREN",Tooncast - USA | SD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Tooncast/SA_HLS/Tooncast.m3u8
@@ -523,25 +526,25 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 
 
 #EXTINF:0, tvg-logo="https://brandemia.org/contenido/subidas/2014/03/vh1_marca.jpg" tvg-name="VH1 - USA | UHD"  group-title="ENTERTAINMENT", VH1 - USA | UHD
-
+http://vikingotv.club:8080/play/bBHlMkfesjv3hOyY5Wn7j6fojHcau2GWtMU5tXiiPMdDH-d87xu5IDTycEQ5nSIm/ts
 
 #EXTINF:0, tvg-logo="https://photos.live-tv-channels.org/tv-logo/uk-spotlight-tv-7846.jpg" tvg-name="SPOTLIGHT USA | HD"  group-title="ENTERTAINMENT",SPOTLIGHT USA | HD
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_HTV_2009.jpg" tvg-name="Htv | HD"  group-title="ENTERTAINMENT",Htv | HD
-
+http://vikingotv.club:8080/play/bBHlMkfesjv3hOyY5Wn7j4w85GEFhE7h24Hab26qRNC-bw5JnnZBkVhUm2-8pbM-/ts
 
 #EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1157806738021736448/ODAmOsLN_400x400.jpg" tvg-name="MTV Hits | HD"  group-title="ENTERTAINMENT",MTV Hits | HD
-
+http://vikingotv.club:8080/play/bBHlMkfesjv3hOyY5Wn7j7l6tPslYBOxfQCBvb7HayxLtrd9OF_8vrn4FDaq4r91/ts
 
 #EXTINF:0, tvg-logo="https://w7.pngwing.com/pngs/841/865/png-transparent-viacom-media-networks-logo-mtv-television-channel-others-television-text-logo.png" tvg-name="MTV - USA | HD"  group-title="ENTERTAINMENT",MTV - USA | HD
-
+http://vikingotv.club:8080/play/bBHlMkfesjv3hOyY5Wn7jw_i-kuDOkzKhr_u48ZJisRbyJX6mK9mNBO6RuGIL_nm/ts
 
 #EXTINF:0, tvg-logo="https://w7.pngwing.com/pngs/841/865/png-transparent-viacom-media-networks-logo-mtv-television-channel-others-television-text-logo.png" tvg-name="MTV - LATAM | HD"  group-title="ENTERTAINMENT",MTV - LATAM | HD
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV.m3u8
+http://vikingotv.club:8080/play/bBHlMkfesjv3hOyY5Wn7j0XAHAQRzi-YRAp2_KTMsB4iNCC69Q7L416VeFUhFi7/ts
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/mx_tru-tv_m.png" tvg-name="True TV - USA | UHD"  group-title="ENTERTAINMENT",True TV - USA | UHD
-https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
 
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/mx_tru-tv_m.png" tvg-name="True TV - SAP (ARG) | HD"  group-title="ENTERTAINMENT",True TV - SAP (ARG) | HD
