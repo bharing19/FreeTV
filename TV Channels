@@ -730,6 +730,8 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" tvg-name="Euro Channel | HD"  group-title="PREMIUM",Euro Channel | HD
 
+#EXTINF:0, tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2021/04/12/7DC7BFBE-A48A-4898-BCEE-166C6812F73F//720x540.jpg" tvg-name="MEGA - SPA | HD"  group-title="PREMIUM", MEGA - SPA | HD
+http://xtream20.me:8080/live/maher12345/maher123456/4593.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" tvg-name="A3SERIES - SPA | HD"  group-title="PREMIUM", A3SERIES - SPA | HD
 http://xtream20.me:8080/live/maher12345/maher123456/5482.m3u8
