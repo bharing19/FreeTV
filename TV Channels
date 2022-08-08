@@ -451,10 +451,16 @@ http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/478.m3u8
 http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1216.ts
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" tvg-name="FX - USA | UHD"  group-title="MOVIES",FX - USA | UHD
-http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/29549.m3u8
+http://xtream20.me:8080/live/maher12345/maher123456/5750.m3u8
+
+#EXTINF:0, tvg-logo="https://revistaemprendedorexitoso.com/wp-content/uploads/2017/09/fxmlogo-blanco-638x482.jpg" tvg-name="FXM - USA | UHD"  group-title="MOVIES",FXM - USA | UHD
+http://xtream20.me:8080/live/maher12345/maher123456/5746.m3u8
+
+#EXTINF:0, tvg-logo="https://www.rbr.com/wp-content/uploads/FXX.jpg" tvg-name="FXX - USA | UHD"  group-title="MOVIES",FXX - USA | UHD
+http://xtream20.me:8080/live/maher12345/maher123456/5749.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" tvg-name="FX | UHD"  group-title="MOVIES",FX | UHD
-http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1012.ts
+
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" tvg-name="FX - SAP (ARG) | HD"  group-title="MOVIES",FX - SAP (ARG) | HD
 
@@ -544,7 +550,7 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/mx_tru-tv_m.png" tvg-name="True TV - USA | UHD"  group-title="ENTERTAINMENT",True TV - USA | UHD
-
+http://xtream20.me:8080/live/maher12345/maher123456/5762.m3u8
 
 
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/mx_tru-tv_m.png" tvg-name="True TV - SAP (ARG) | HD"  group-title="ENTERTAINMENT",True TV - SAP (ARG) | HD
@@ -666,7 +672,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 
 #EXTINF:0, tvg-logo="https://download.logo.wine/logo/CNBC/CNBC-Logo.wine.png" tvg-name="CNBC | SD"  group-title="NEWS",CNBC | SD
-https://cdn1-7p.teleuptv.net/ac4ee517-a713-4503-8d9d-5ec90cdf515e/index.m3u8
+http://xtream20.me:8080/live/maher12345/maher123456/6092.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" tvg-name="EURO NEWS - SPA | HD"  group-title="NEWS",EURO NEWS - SPA | HD
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
@@ -715,6 +721,10 @@ https://cvi.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
 #EXTINF:0, tvg-logo="https://www.vhv.rs/dpng/d/528-5288156_img-paramount-channel-logo-hd-png-download.png" tvg-name="Paramount Channel | HD"  group-title="PREMIUM",Paramount Channel | HD
 https://cvi.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
 
+
+#EXTINF:0, tvg-logo="https://www.vhv.rs/dpng/d/528-5288156_img-paramount-channel-logo-hd-png-download.png" tvg-name="Paramount Channel - SPA | UHD"  group-title="PREMIUM",Paramount Channel - SPA | UHD
+http://xtream20.me:8080/live/maher12345/maher123456/4587.m3u8
+
 #EXTINF:0, tvg-logo="https://cdn.mitvstatic.com/channels/gt_cinema_m.png" tvg-name="Cinema+ - COL | HD"  group-title="PREMIUM",Cinema+ - COL | HD
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 
@@ -722,10 +732,10 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" tvg-name="A3SERIES - SPA | HD"  group-title="PREMIUM", A3SERIES - SPA | HD
-
+http://xtream20.me:8080/live/maher12345/maher123456/5482.m3u8
 
 #EXTINF:0, tvg-logo="https://www.brandemia.org/wp-content/uploads/2011/02/logoa3.jpg" tvg-name="Antena 3 - SPA | UHD"  group-title="PREMIUM", Antena 3 - SPA | UHD
-
+http://xtream20.me:8080/live/maher12345/maher123456/1062.m3u8
 
 #EXTINF:0, tvg-logo="https://www.cineytele.com/wp-content/uploads/2020/12/atreseries.jpg" tvg-name="A3SERIES INTERNACIONAL | UHD"  group-title="PREMIUM",A3SERIES INTERNACIONAL | UHD
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
@@ -778,8 +788,11 @@ https://v-ny.mybtv.net/live/550/1280x720.m3u8
 #EXTINF:0, tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/4/2019/04/placeholder-4x3.jpg" tvg-name="FOX LA - USA | UHD"  group-title="PREMIUM",FOX LA - USA | UHD
 https://v-la.mybtv.net/live/166/1280x720.m3u8
 
+#EXTINF:0, tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/06/CBS-Logo-Tagline-Slogan-owner-founder.jpg?fit=640%2C640&ssl=1" tvg-name="CBS | UHD"  group-title="PREMIUM",CBS | UHD
+http://xtream20.me:8080/live/maher12345/maher123456/6088.m3u8
+
 #EXTINF:0, tvg-logo="https://iconape.com/wp-content/files/xq/110997/png/usa-network-logo.png" tvg-name="USA NETWORK | UHD"  group-title="PREMIUM",USA NETWORK | UHD
-https://cdn1-7p.teleuptv.net/8d8e972e-927a-422a-a9b7-537cf05f730c/index.m3u8
+http://xtream20.me:8080/live/maher12345/maher123456/883.m3u8
 
 #EXTINF:0, tvg-logo="https://image.roku.com/developer_channels/prod/6292658257f2d4c2d7898f209026c5bdf4ba45dc22c3294da9604e476abb9b99.png" tvg-name="BRAVO CHANNEL - USA | UHD"  group-title="PREMIUM",BRAVO CHANNEL - USA | UHD
 https://cdn1-8p.teleuptv.net/f2a25a37-5ae5-4b7d-8db7-3579f0986f5e/index.m3u8
