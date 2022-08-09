@@ -394,7 +394,7 @@ http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1032.m3u8
 http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/1033.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" tvg-name="TNT - USA | UHD"  group-title="MOVIES",TNT - USA | UHD
-http://xtream20.me:8080/live/maher12345/maher123456/884.m3u8
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" tvg-name="TNT LATAM | UHD"  group-title="MOVIES",TNT LATAM | UHD
 http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/86769.m3u8
@@ -638,9 +638,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-ple
 #EXTINF:0, tvg-logo="https://www.kindpng.com/picc/m/409-4091749_transparent-nbc-news-logo-hd-png-download.png" tvg-name="NBC News | HD"  group-title="NEWS",NBC News | HD
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 
-#EXTINF:0, tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/cbs-news-vector-logo.png" tvg-name="CBS News NY | UHD"  group-title="NEWS",CBS News NY | UHD
-https://v-px.mybtv.net/live/55/1920x1080.m3u8
-
 #EXTINF:0, tvg-logo="https://brandlogos.net/wp-content/uploads/2021/11/sky-news-logo.png" tvg-name="SKY NEWS - UK | SD"  group-title="NEWS",SKY NEWS - UK | SD
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
@@ -670,9 +667,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://techcrunch.com/wp-content/uploads/2019/09/lx.png" tvg-name="NBCLX | HD"  group-title="NEWS",NBCLX | HD
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-
-#EXTINF:0, tvg-logo="https://download.logo.wine/logo/CNBC/CNBC-Logo.wine.png" tvg-name="CNBC | SD"  group-title="NEWS",CNBC | SD
-http://xtream20.me:8080/live/maher12345/maher123456/6092.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" tvg-name="EURO NEWS - SPA | HD"  group-title="NEWS",EURO NEWS - SPA | HD
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
@@ -772,6 +766,12 @@ https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0, tvg-logo="https://www.coolstreaming.us/img/ch/image29190562432.jpg" tvg-name="AMG TV - USA | UHD"  group-title="PREMIUM",AMG TV - USA | UHD
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
+#EXTINF:0, tvg-logo="https://www.nysenate.gov/sites/default/files/in-the-news/main-image/fox5ny.jpg" tvg-name="FOX NY - USA | UHD"  group-title="PREMIUM",FOX NY - USA | UHD
+https://v-ny.mybtv.net/live/550/1280x720.m3u8
+
+#EXTINF:0, tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/4/2019/04/placeholder-4x3.jpg" tvg-name="FOX LA - USA | UHD"  group-title="PREMIUM",FOX LA - USA | UHD
+https://v-la.mybtv.net/live/166/1280x720.m3u8
+
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png" tvg-name="NBC NY - USA | UHD"  group-title="PREMIUM",NBC NY - USA | UHD
 https://v-ny.mybtv.net/live/548/1920x1080.m3u8
 
@@ -784,17 +784,14 @@ https://v-ca.mybtv.net/live/121/1920x1080.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png" tvg-name="NBC PX - USA | UHD"  group-title="PREMIUM",NBC PX - USA | UHD
 https://v-px.mybtv.net/live/55/1920x1080.m3u8
 
-#EXTINF:0, tvg-logo="https://www.nysenate.gov/sites/default/files/in-the-news/main-image/fox5ny.jpg" tvg-name="FOX NY - USA | UHD"  group-title="PREMIUM",FOX NY - USA | UHD
-https://v-ny.mybtv.net/live/550/1280x720.m3u8
-
-#EXTINF:0, tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/4/2019/04/placeholder-4x3.jpg" tvg-name="FOX LA - USA | UHD"  group-title="PREMIUM",FOX LA - USA | UHD
-https://v-la.mybtv.net/live/166/1280x720.m3u8
-
 #EXTINF:0, tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/06/CBS-Logo-Tagline-Slogan-owner-founder.jpg?fit=640%2C640&ssl=1" tvg-name="CBS | UHD"  group-title="PREMIUM",CBS | UHD
-http://xtream20.me:8080/live/maher12345/maher123456/6088.m3u8
+https://v-px.mybtv.net/live/55/1920x1080.m3u8
+
+#EXTINF:0, tvg-logo="https://download.logo.wine/logo/CNBC/CNBC-Logo.wine.png" tvg-name="CNBC | SD"  group-title="PREMIUM",CNBC | SD
+https://cdn1-7p.teleuptv.net/ac4ee517-a713-4503-8d9d-5ec90cdf515e/index.m3u8
 
 #EXTINF:0, tvg-logo="https://iconape.com/wp-content/files/xq/110997/png/usa-network-logo.png" tvg-name="USA NETWORK | UHD"  group-title="PREMIUM",USA NETWORK | UHD
-http://xtream20.me:8080/live/maher12345/maher123456/883.m3u8
+https://cdn1-7p.teleuptv.net/8d8e972e-927a-422a-a9b7-537cf05f730c/index.m3u8
 
 #EXTINF:0, tvg-logo="https://image.roku.com/developer_channels/prod/6292658257f2d4c2d7898f209026c5bdf4ba45dc22c3294da9604e476abb9b99.png" tvg-name="BRAVO CHANNEL - USA | UHD"  group-title="PREMIUM",BRAVO CHANNEL - USA | UHD
 https://cdn1-8p.teleuptv.net/f2a25a37-5ae5-4b7d-8db7-3579f0986f5e/index.m3u8
@@ -806,7 +803,7 @@ https://cdn1-8p.teleuptv.net/4a6a1ba6-e9e5-4bcf-ac1f-3f4fd6595f49/index.m3u8
 https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_246.png?itok=1ptzDjGk" tvg-name="HALLMARK MOVIES - USA | UHD"  group-title="PREMIUM",HALLMARK MOVIES - USA | UHD
-https://crownmediaingesttest.akamaized.net/hls/live/2012246/hm/master.m3u8?hdnts=exp=1658386878~acl=/*~hmac=a8d6e7b3819e29ef5fe7b708bc64de61e8a9deaa86efaa5be07343e6e0d9f34b
+
 
 
 
@@ -825,7 +822,7 @@ https://crownmediaingesttest.akamaized.net/hls/live/2012246/hm/master.m3u8?hdnts
 
 
 #EXTINF:0, tvg-logo="https://play-lh.googleusercontent.com/wlZ5OQY1to32eYujOSoRD3dYF0vX7beMWHUCWcU6Wr5_xFt8KK-LXz4HvQmYR9L0SCA" tvg-name="TUDN - USA | UHD"  group-title="SPORTS",TUDN - USA | UHD
-https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/udn2/as/live/udn2_hd_pc.m3u8?ru=1&dfphmackey=LPcJrBXfRtexVCGDSeGIrg&t1=exp=1657867425~salt=XrmAtNEQcfXbGou2~hash=7d5a3e30eaac23f714849ea2d8f8141c924df7b8~id=6e2314ba-a3a7-4098-ae6c-c279d595b523~acl=/nlds/univisionnow/udn2/as/live/*event=LPcJrBXfRtexVCGDSeGIrg~exp=1657867605~hmac=27f423673e49f0415125d725ddcfa552853496859d2367dfa87cda639778b9d0
+https://dcs-live.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/manifest.m3u8?encp=E5jBD32hJ8PZNGnVvKXOUA:s2pHHCSHhetGCJhkGt6cQ2peZTdD5qdehj_T1MX8zP1JZelNJWUTIiYLhDiwjE6Oulb3MD4bWe23W-lvcjIOohAsjxs7iDalKGIGKtmXZMRGKtLhynbOu9_-cKtBlD_8ZPi4AivYX9WQnaR3WCqc73LZ8GSeR3mL-DJxDH7c6rNZPthULV7J4krXTArGhjecUqC4OzRbZ0zA06dWyCqyBlEr8d_B09iFsHHzDJcs4GP_YGw2MGY2h2RR6bFefF7oBRTCcypZ3bTBlIFoq20z2jZOUakaTshcgplT5zhbi3S3GNz89XRWqarDo5WvgiWybGGBwKB5NUr--jTEcievckMfXgSccpoO0yd5WLY2KmU5X9At-9sSr7UP8MB0wc-f44G3TjUQlkY0eSuYytQqyJQXrJD461t7rfH-_Fzq3LZ1vsQpXyzMlSHSL37jGJet8BI6IgrCWTfb1ho6PW-2IroCedwsdYnHEOIIg5oh_BN_GF7c0g-E9d39VjmCQV-e-9TLWLFli39NlyDm0ifAKlTEKyLFnyKvau_CyKMdmM1arI5LqshG7-hP6CAGfK1MwGxagJuzg-anSGnZ3n4BYdHyOrOZg1OxHJJ9ZBxmoe7GRnFQg9ybz8L3S8rcSaoQSygX5aJv3UQdzNd1tSVCAA&anvtrid=35ab81e1d30f05a73f8708bc9b9cfc5b&anvauth=tb=0~te=1660083445~sgn=885320f39b5b62ca198f61537d61439594470f75ed922e46c26b11c8574d5189&t=1660083355
 
 #EXTINF:0, tvg-logo="https://archive.org/services/img/EspnUsa" tvg-name="ESPN USA | HD"  group-title="SPORTS",ESPN USA | HD
 
@@ -836,14 +833,14 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 #EXTINF:0, tvg-logo="https://www.logolynx.com/images/logolynx/07/07113847db4c87c8f2be573566e9e8d4.png" tvg-name="ESPN 2 - ARG | HD"  group-title="SPORTS",ESPN 2 - ARG | HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 
-#EXTINF:0, tvg-logo="https://vivos.superliga-argentina.com/wp-content/uploads/espn-3-logo-grande-696x392.jpg" tvg-name="ESPN 3 - ARG | HD"  group-title="SPORTS",ESPN 3 - ARG | HD
+#EXTINF:0, tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" tvg-name="ESPN 3 - ARG | HD"  group-title="SPORTS",ESPN 3 - ARG | HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 
 #EXTINF:0, tvg-logo="https://i0.wp.com/www.androidpure.com/wp-content/uploads/2014/05/ESPN-FC-World-Cup-App.png?resize=300%2C300" tvg-name="ESPN 4 - ARG | HD"  group-title="SPORTS",ESPN 4 - ARG | HD
 
 
 #EXTINF:0, tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ca7eacbfa85ac05b53_espn-extra.jpeg" tvg-name="ESPN EXTRA | SD"  group-title="SPORTS",ESPN EXTRA | SD
-https://cvi.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
+
 
 #EXTINF:0, tvg-logo="https://us.cdn.eltribuno.com/042022/1651179757165/image%20(7).png" tvg-name="ESPN Premium - ARG | HD"  group-title="SPORTS",ESPN Premium - ARG | HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
@@ -892,16 +889,16 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaysports-p
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn.presskite.com/media/image/ec6ef9cfd56b498e9b334c41f5faaa15/logo-fsn-fullcolor.png" tvg-name="Fubo Sports - USA | UHD"  group-title="SPORTS",Fubo Sports - USA | UHD
-https://csm-e-cetubiausw2live204-0109fb5bbd5479f6c.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8?playback_start_ts=1657855219.668&yo.ap=https%3A%2F%2Flna.tubi.video%2Fprd-yospace%2F&yo.t.jt=1000&yo.eb.fb=aHR0cHM6Ly9sbmMtZnViby50dWJpLnZpZGVvL21hc3Rlci5tM3U4&app_id=tubitv&content_id=557344&content_type=mp4&coppa_enabled=false&device_id=70bea4c9-52af-40d6-a3ad-a74830a14bd1&language=es&now_pos=0&pub_id=671eb77f6fb679dcf72448943ee105e5&user_id=44975736&vpaid_enabled=true&platform=WEB&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+
 
 #EXTINF:0, tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRVzUmJX5whdKFHCtO59azqSPuu7ywo620CGMGlyg=s900-c-k-c0x00ffffff-no-rj" tvg-name="CBS Sports HQ - USA | UHD"  group-title="SPORTS",CBS Sports HQ - USA | UHD
-https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/829f049f-0709-40ff-a29a-3d5e279b07db:BRU/master.m3u8
+
 
 #EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg" tvg-name="CBS Sports Network - USA | UHD"  group-title="SPORTS",CBS Sports Network - USA | UHD
-https://cbsplaylistserver.aws.syncbak.com/cpl/853636/cbshls/2.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOiIxMTYiLCJjaWQiOjEwNzU0LCJvb20iOmZhbHNlLCJhcHN0IjpudWxsLCJzc2lkIjoiZTBjNjcwOTAyNGU1NGFjMGI5MWVhOWE5NTAwNWU0MDEiLCJpcCI6IjE4LjIwOS44My4xIiwidWlwIjoiMTk4LjkxLjgxLjE0IiwiZG1hIjo2NzgsInNuIjoiV2ViIDkyMTZhODNkNmYgIiwidWlkIjpudWxsLCJtaWQiOiI4NTM2MzYiLCJtZDUiOiI3NTc1NTg1Y2YwMGI2MjM1MWUwZWY1NjdlMzhmMWViOCIsImlhdCI6MTY1ODE4NjUxOSwiZXhwIjoxNjU4MTg2NjA5LCJpc3MiOiJXTFMiLCJzdWIiOiJkZGYxZDEzZS01ZjNhLTQxOWItYjEzMC1lNTQwYzI0ZjZiZGMifQ.cQ52Ai1kmRoUU9gHuj_1x3GyZb2fHkGUJfji9wDbU-o
+
 
 #EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1148306380564193280/lfg7mCvJ_400x400.jpg" tvg-name="MLB NETWORK - USA | UHD"  group-title="SPORTS",MLB NETWORK - USA | UHD
-https://tve-live.mlb.com/1658210954_f819b6728d0548ee16b2cb653c691e0187a5633905a844051bb7999426162310/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
+
 
 
 
