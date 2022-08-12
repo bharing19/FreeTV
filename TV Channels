@@ -166,8 +166,8 @@ https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" tvg-name="RCN | UHD"  group-title="SOAP OPERAS & COMEDY",RCN | UHD
 http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/87063.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" tvg-name="RCN | UHD"  group-title="SOAP OPERAS & COMEDY",RCN OPC 2 | UHD
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZWmKxJQWTxDjhGI4ojwfkoHnW-OgvMcA_VnmtPZEFwAN)/dm/3/x7vyv0z/s/live-3.m3u8
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" tvg-name="RCN OPC 2 | UHD"  group-title="SOAP OPERAS & COMEDY",RCN OPC 2 | UHD
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5whOGaUeO0YYJlPB6tGqAEQ3PEYNe1jfuCxZ-NLQGvb)/dm/3/x7wikpz/s/live-1.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/1200px-RCN_Nuestra_Tele_logo.svg.png" tvg-name="RCN Internacional | UHD"  group-title="SOAP OPERAS & COMEDY",RCN Internacional | UHD
 http://vikingotv.club:8080/live/Apuntado000/BrupJVC7nx/82956.m3u8
