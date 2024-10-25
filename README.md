@@ -1,2 +1,2 @@
 # FreeTV
-Es una lista IPTV libre
+This is a free IPTV list.
